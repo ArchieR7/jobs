@@ -7,6 +7,13 @@
 ## 求才
 歡迎至 [Issues](https://github.com/iOSTaiwan/jobs/issues) 創建新的求才資訊！
 
+由於這邊僅提供 iOS 工程師的資訊，故 `Title` 請填寫公司名稱即可，如：
+```
+gogoro
+Garena
+```
+職稱則以 lables 的方式來區分，如 [Junior](https://github.com/iOSTaiwan/jobs/issues?q=is%3Aopen+is%3Aissue+label%3AJunior) 以及 [Senior](https://github.com/iOSTaiwan/jobs/issues?q=is%3Aopen+is%3Aissue+label%3ASenior) 等。
+
 期望能附註薪資範圍，以供瀏覽者預估職能程度，並在順利徵得同事後，將 issue 關閉。
 
 ## 求職
