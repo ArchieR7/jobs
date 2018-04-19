@@ -1,8 +1,7 @@
 # iOS 工作資訊
 
 ## 緣起
-來自於 [f2etw/jobs](https://github.com/f2etw/jobs)，希望 iOS 也有相關的資源可以提供；
-故初版的規則會比照 [f2etw/jobs](https://github.com/f2etw/jobs) 的方向走。
+來自於 [f2etw/jobs](https://github.com/f2etw/jobs)，希望 iOS 也有相關的資源可以提供；故初版的規則會比照 [f2etw/jobs](https://github.com/f2etw/jobs) 的方向走。
 
 ## 求才
 歡迎至 [Issues](https://github.com/iOSTaiwan/jobs/issues) 創建新的求才資訊！
